@@ -1,0 +1,17 @@
+elicitacao
+atividade que visa coletar/extrair os requisitos brutos
+
+estudo de viabilidade
+analisa o projeto a fim de saber se é viavel
+
+especificacao e documentacao de requisitos
+atividade de refinamento e detalhamento de requisitos
+
+validao
+verifica a coerencia entre o que foi compreendido e aquilo que é desejado pelo negocio
+
+engenharia de software
+atividade que envolve todas as atividades relacionadas aos requisitos de sistema
+
+processo
+conjunto de atividades (quaisquer) para obtenção de um objetivo
